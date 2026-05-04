@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Локальные файлы проекта
+test_out.txt
+SkanerF.txt
